@@ -2,7 +2,7 @@
 //  main.cpp
 //  MPLChapter3Project_PrimeNumbers
 //
-//  Created by Geoffrey Matis on 2/20/22.
+//  Created on 2/20/22.
 //
 
 #include <iostream>
